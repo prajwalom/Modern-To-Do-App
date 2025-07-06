@@ -19,13 +19,18 @@ body {
 
 .header-conatiner {
     position: relative;
-    background-color: red;
+    text-align: center;
+    z-index: 10;
+    margin-bottom: 3rem;
 
 }
 
 .main-title {
-    color: white;
-    background-color: red;
+    font-size: clamp(2.5rem, 8vw, 6rem);
+    font-weight: 800;
+    color: transparent;
+    background: linear-gradient(135deg, #8B5CF6, #A855F7, #C084FC, #DDD6FE);
+    
 }
      
         
