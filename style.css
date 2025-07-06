@@ -14,6 +14,18 @@ body {
     justify-content: flex-start;
     font-family: 'Poppins', sans-serif;
     padding: 2rem 1rem;
+    
+}
+
+.header-conatiner {
+    position: relative;
+    background-color: red;
+
+}
+
+.main-title {
+    color: white;
+    background-color: red;
 }
      
         
