@@ -90,5 +90,17 @@ body {
 .floating-icon:nth-child(4) { bottom: 20%; right: 10%; animation-delay: 3s; }
 .floating-icon:nth-child(5) { top: 50%; left: 5%; animation-delay: 4s; }
 .floating-icon:nth-child(6) { top: 40%; right: 5%; animation-delay: 5s; }
+
+
+.demo-todo-container {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border-radius: 16px;
+    border: 1px solid rgba(139, 92, 246, 0.3);
+    padding: 2rem;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 8px 32px rgba(139, 92, 246, 0.2);
+}
      
         
