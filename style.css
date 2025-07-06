@@ -184,4 +184,19 @@ body {
 }
 
 
+@media (max-width: 768px) {
+    .main-title {
+        font-size: clamp(2rem, 12vw, 4rem);
+    }
+    .subtitle {
+        font-size: clamp(0.9rem, 4vw, 1.2rem);
+    }
+    .demo-todo-container {
+        padding: 1.5rem;
+    }
+}
+
+
+
+
         
